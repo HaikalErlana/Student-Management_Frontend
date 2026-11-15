@@ -4,13 +4,13 @@
 
 Aplikasi **Student Management** merupakan implementasi antarmuka sederhana menggunakan ReactJS untuk menampilkan data mahasiswa dalam bentuk tabel. Proyek ini dibuat sebagai bagian dari tugas **Frontend Individual Challenge – React UI Implementation Practice** dari Celerates.
 
-## Preview Aplikasi
+## Preview Website
 
 Berikut merupakan tampilan aplikasi Student Management yang telah dibuat menggunakan ReactJS.
 
 ![Student Management Preview](screenshots/student_management.png)
 
-> **Catatan:** Simpan screenshot aplikasi dengan nama `student-management-preview.png` di dalam folder `screenshots` pada direktori utama proyek agar gambar dapat ditampilkan di GitHub.
+> **Catatan:** Simpan screenshot aplikasi dengan nama `student-management.png` di dalam folder `screenshots` pada direktori utama proyek agar gambar dapat ditampilkan di GitHub.
 
 ## Teknologi yang Digunakan
 
@@ -19,7 +19,7 @@ Berikut merupakan tampilan aplikasi Student Management yang telah dibuat menggun
 - **Vite** – Build tool untuk menjalankan dan mengembangkan proyek React.
 - **Vanilla CSS** – Digunakan untuk mengatur tampilan dan tata letak aplikasi.
 
-## Fitur Aplikasi
+## Fitur didalam Website
 
 1. **Menampilkan Data Mahasiswa**  
    Menampilkan data mahasiswa dalam bentuk tabel yang terdiri dari NIM, Nama Mahasiswa, No. Hp, Email, Alamat, Program Studi, dan Tahun Masuk.
