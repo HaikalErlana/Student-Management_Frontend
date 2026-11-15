@@ -2,22 +2,22 @@
 
 # Student Management
 
-Aplikasi **Student Management** merupakan implementasi antarmuka sederhana menggunakan ReactJS untuk menampilkan data mahasiswa dalam bentuk tabel. Proyek ini dibuat sebagai bagian dari tugas **Frontend Individual Challenge – React UI Implementation Practice** dari Celerates.
+Website **Student Management** merupakan implementasi antarmuka sederhana menggunakan ReactJS untuk menampilkan data mahasiswa dalam bentuk tabel. Proyek ini dibuat sebagai bagian dari tugas **Frontend Individual Challenge – React UI Implementation Practice** dari Celerates.
 
 ## Preview Website
 
-Berikut merupakan tampilan aplikasi Student Management yang telah dibuat menggunakan ReactJS.
+Berikut merupakan tampilan website Student Management yang telah dibuat menggunakan ReactJS.
 
 ![Student Management Preview](screenshots/student_management.png)
 
-> **Catatan:** Simpan screenshot aplikasi dengan nama `student-management.png` di dalam folder `screenshots` pada direktori utama proyek agar gambar dapat ditampilkan di GitHub.
+> **Catatan:** Simpan screenshot website dengan nama `student-management.png` di dalam folder `screenshots` pada direktori utama proyek agar gambar dapat ditampilkan di GitHub.
 
 ## Teknologi yang Digunakan
 
 - **ReactJS** – Library JavaScript untuk membangun antarmuka pengguna.
-- **JavaScript** – Bahasa pemrograman yang digunakan dalam pengembangan aplikasi.
+- **JavaScript** – Bahasa pemrograman yang digunakan dalam pengembangan website.
 - **Vite** – Build tool untuk menjalankan dan mengembangkan proyek React.
-- **Vanilla CSS** – Digunakan untuk mengatur tampilan dan tata letak aplikasi.
+- **Vanilla CSS** – Digunakan untuk mengatur tampilan dan tata letak website.
 
 ## Fitur didalam Website
 
@@ -51,7 +51,7 @@ Student-Management/
 └── README.md
 ```
 
-## Cara Menjalankan Aplikasi
+## Cara Menjalankan Website
 
 Pastikan Node.js dan npm sudah terpasang pada komputer.
 
@@ -73,7 +73,7 @@ Pastikan Node.js dan npm sudah terpasang pada komputer.
    npm install
    ```
 
-4. Jalankan aplikasi:
+4. Jalankan website:
 
    ```bash
    npm run dev
